@@ -1,0 +1,33 @@
+create_refrigerator:100,10,220
+create_refrigerator:200,3,110
+create_refrigerator:500,5,220
+add:MilkChocolate,200,Breakfast milk,150
+add:MilkChocolate,200,Milk for coffe,200
+add:DietCoke,100,Ahmad cola dinner,330
+add:Cheeseburger,200,Ahmad food dinner,400
+add:DietCoke,900,family coca cola,550
+add:Cheeseburger,100,Ahmad food dinner,400
+add:DietCoke,200,family coca cola,550
+add:MilkChocolate,200,Milk for Omar,200
+add:CheeseCake,500,my desert,100
+add:HotChocolate,200,for Jamal,100
+add:DietCoke,500,my coca cola,750
+add:DietCoke,100,my coca cola,750
+add:CheeseCake,100,very good cake,600
+add:IceCream,100,quality ice cream,200
+plug_refrigerator:100,220
+plug_refrigerator:200,220
+plug_refrigerator:200,110
+plug_refrigerator:500,220
+count_items_refrigerator:500
+count_items_refrigerator:100
+count_items_refrigerator:200
+display_refrigerator:500
+display_refrigerator:200
+display_refrigerator:100
+sort_refrigerators
+display_refrigerator:500
+display_refrigerator:200
+display_refrigerator:100
+about_app
+exit

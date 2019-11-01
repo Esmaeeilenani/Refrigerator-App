@@ -1,0 +1,2 @@
+Description 
+Suppose that you want to simulate adding items to a refrigerator. The items are divided into three type: drinkable foods, eatable foods, and both drinkable & eatable foods. The application can create refrigerators, and every refrigerator can store foods as items. Each refrigerator has a specific capacity and voltage. If the capacity or the voltage is exceeded, an exception (error) will be thrown. Also, the application should have graphical user interfaces to interact with users. 
